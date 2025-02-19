@@ -1,6 +1,6 @@
 # 📊 Sales Analysis Dashboard
 
-![Dashboard Screenshot](https://github.com/username/repository/blob/main/image.png)
+![Dashboard Screenshot](https://github.com/HimanshuSharma123-a/Sales-Analysis-Report/blob/main/report.png)
 
 ## 📝 Overview
 This Power BI dashboard provides a comprehensive analysis of sales performance across different regions, product sub-categories, customer segments, and order dates. The dashboard offers valuable insights into sales trends, profits, discounts, and quantities sold.
