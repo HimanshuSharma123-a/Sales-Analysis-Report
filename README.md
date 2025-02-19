@@ -33,7 +33,7 @@ This Power BI dashboard provides a comprehensive analysis of sales performance a
 6. **Final Review & Optimization**: Ensured the dashboard was well-structured and user-friendly.
 
 ## 📜 Dashboard Report
-[View Sales Analysis Report](Documents/Sales_Analysis_Report.pdf)
+[View Sales Analysis Report](https://github.com/HimanshuSharma123-a/Sales-Analysis-Report/blob/main/Sales%20analysis%20report.pdf)
 
 ## 📌 How to Use
 1. Open the `.pbix` file in Power BI Desktop.
