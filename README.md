@@ -3,7 +3,7 @@
 ![Dashboard Screenshot](https://github.com/HimanshuSharma123-a/Sales-Analysis-Report/blob/main/report.png)
 
 📂 **Download Dataset:**  
-[📊 Sales Data (XLSX)](https://github.com/username/repository/raw/main/dataset.xlsx)
+[📊 Sales Data (XLSX)](https://github.com/HimanshuSharma123-a/Sales-Analysis-Report/blob/main/Pavan%20Lalwani%20Sales%20Report.xlsx)
 
 ## 📝 Overview
 This Power BI dashboard provides a comprehensive analysis of sales performance across different regions, product sub-categories, customer segments, and order dates. The dashboard offers valuable insights into sales trends, profits, discounts, and quantities sold.
