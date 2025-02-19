@@ -1,4 +1,4 @@
-# 📊 Sales Analysis Dashboard
+# 📊 Sales Analysis Report
 
 ![Dashboard Screenshot](https://github.com/HimanshuSharma123-a/Sales-Analysis-Report/blob/main/report.png)
 
