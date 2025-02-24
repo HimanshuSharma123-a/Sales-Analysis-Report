@@ -1,14 +1,14 @@
-# 📊 Sales Analysis Report
+# Sales Analysis Report
 
 ![Dashboard Screenshot](https://github.com/HimanshuSharma123-a/Sales-Analysis-Report/blob/main/report.png)
 
-📂 **Download Dataset:**  
-[📊 Sales Data (XLSX)](https://github.com/HimanshuSharma123-a/Sales-Analysis-Report/blob/main/Pavan%20Lalwani%20Sales%20Report.xlsx)
+**Download Dataset:**  
+[Sales Data (XLSX)](https://github.com/HimanshuSharma123-a/Sales-Analysis-Report/blob/main/Pavan%20Lalwani%20Sales%20Report.xlsx)
 
-## 📝 Overview
+## Overview
 This Power BI dashboard provides a comprehensive analysis of sales performance across different regions, product sub-categories, customer segments, and order dates. The dashboard offers valuable insights into sales trends, profits, discounts, and quantities sold.
 
-## 🚀 Features
+## Features
 - **Sales by Region**: Displays sales distribution across various geographical regions (West, East, Central, South).
 - **Sales by Sub-Category**: Highlights sales figures for different product sub-categories such as Phones, Chairs, Storage, and Tables.
 - **Sales by Segment**: Analyzes sales performance across Consumer, Corporate, and Home Office segments.
@@ -19,13 +19,13 @@ This Power BI dashboard provides a comprehensive analysis of sales performance a
   - **Total Profit**: $286K+  
   - **Total Quantity Sold**: 38K+  
 
-## 📈 Insights
+## Insights
 - **Highest Revenue Region**: The West region contributed the most to sales (~31.58%).
 - **Best-Selling Sub-Category**: Phones generated the highest revenue (~$206.97K).
 - **Customer Segment with Highest Sales**: The Consumer segment contributed ~50.56% of total sales.
 - **Yearly Sales Growth**: There is a visible upward trend in total sales from 2019 to 2021.
 
-## 🔧 Steps to Create the Dashboard
+## Steps to Create the Dashboard
 1. **Data Collection**: Imported raw sales data into Power BI.
 2. **Data Cleaning**: Performed necessary transformations such as handling missing values and formatting columns.
 3. **Data Modeling**: Established relationships between tables.
@@ -35,20 +35,20 @@ This Power BI dashboard provides a comprehensive analysis of sales performance a
 5. **Interactivity & Filters**: Added slicers to allow dynamic filtering.
 6. **Final Review & Optimization**: Ensured the dashboard was well-structured and user-friendly.
 
-## 📜 Dashboard Report
+## Dashboard Report
 [View Sales Analysis Report](https://github.com/HimanshuSharma123-a/Sales-Analysis-Report/blob/main/Sales%20analysis%20report.pdf)
 
-## 📌 How to Use
+## How to Use
 1. Open the `.pbix` file in Power BI Desktop.
 2. Interact with the visuals to explore different sales trends.
 3. Apply filters to analyze sales by different dimensions.
 
-## 📢 Future Enhancements
+## Future Enhancements
 - Add forecasting for future sales trends.
 - Implement advanced DAX calculations for deeper insights.
 - Integrate real-time data sources.
 
-## 🏷️ Technologies Used
+## Technologies Used
 - **Power BI** for data visualization
 - **DAX** for calculated measures
 - **Excel/CSV** as data source
